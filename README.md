@@ -1,3 +1,3 @@
 # DAY-25
 API TASK
-deployed link - https://dazzling-goldstine-d7574b.netlify.app/
+deployed link - https://happy-nobel-d36d53.netlify.app/
